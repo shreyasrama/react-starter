@@ -6,4 +6,4 @@ A template that has the following:
 - Vite
 - Tailwind
 - Oxlint
-- Prettier with oxc and Tailwind plugins
+- Prettier with oxc and Tailwind class ordering plugins
