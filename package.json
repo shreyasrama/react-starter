@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "A React + Vite template with TailwindCSS, Oxlint, and Prettier pre-configured.",
   "private": true,
   "type": "module",
   "scripts": {
@@ -16,20 +16,20 @@
   "packageManager": "pnpm@10.12.1",
   "devDependencies": {
     "@prettier/plugin-oxc": "^0.0.4",
-    "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.2",
-    "oxlint": "^1.24.0",
-    "prettier": "^3.6.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "oxlint": "^1.74.0",
+    "prettier": "^3.9.5",
     "prettier-plugin-tailwindcss": "^0.6.14",
     "typescript": "^5.9.3",
-    "vite": "^7.1.12"
+    "vite": "^8.1.5"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.16",
-    "@vitejs/plugin-react": "^5.1.0",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "tailwindcss": "^4.1.16",
-    "vite-plugin-oxlint": "^1.4.0"
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tailwindcss": "^4.3.3",
+    "vite-plugin-oxlint": "^2.1.2"
   }
 }
